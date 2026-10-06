@@ -1,0 +1,7 @@
+docling==2.134.0
+fastapi==0.142.2
+ollama==0.6.3
+pydantic==2.13.5
+qdrant_client==1.19.1
+rank_bm25==0.2.2
+sentence_transformers==6.1.0
